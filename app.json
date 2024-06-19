@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "inshortsv2",
-    "slug": "inshortsv2",
+    "name": "Avi",
+    "slug": "Aviraj",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.avirajsinh.inshortsv2"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "16740f47-674b-48f1-8fe1-9d5dc3e59779"
+      }
     }
   }
 }
